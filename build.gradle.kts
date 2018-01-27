@@ -2,7 +2,7 @@ import org.gradle.api.JavaVersion.*
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    val kotlinVersion = "1.2.21"
+    val kotlinVersion = "1.1.61"
 
     id("org.jetbrains.kotlin.jvm") version kotlinVersion
     id("org.jetbrains.kotlin.plugin.spring") version kotlinVersion
@@ -34,7 +34,6 @@ dependencies {
     compile("org.jetbrains.kotlin:kotlin-reflect")
     compile("org.springframework.boot:spring-boot-starter-webflux")
     compile("org.springframework.boot:spring-boot-devtools")
-
 
     testCompile("io.projectreactor:reactor-test")
     testCompile("org.springframework.boot:spring-boot-starter-test") {

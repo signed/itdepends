@@ -1,3 +1,9 @@
 
 = Sample applications
 https://github.com/mixitconf/mixit
+
+= Blog Posts
+- https://spring.io/blog/2017/08/01/spring-framework-5-kotlin-apis-the-functional-way as a link to sample code on github
+
+= Search worlds
+- server-sent events

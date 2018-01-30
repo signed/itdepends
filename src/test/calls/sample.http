@@ -1,0 +1,14 @@
+GET http://localhost:8080/forrest
+
+
+###
+
+POST http://localhost:8080/forrest
+Content-Type: application/json
+Accept: application/json
+
+{
+  "value": "update"
+}
+
+###

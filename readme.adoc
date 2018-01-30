@@ -10,3 +10,9 @@ https://github.com/mixitconf/mixit
 
 = Search worlds
 - server-sent events
+
+
+= To Read
+- http://www.baeldung.com/kotlin-null-safety[Kotlin null safety]
+- https://kotlinlang.org/docs/reference/inline-functions.html#reified-type-parameters[Kotlin refined type parameters]
+- https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0#functional-bean-declaration-dsl[Kotlin Support in Spring]

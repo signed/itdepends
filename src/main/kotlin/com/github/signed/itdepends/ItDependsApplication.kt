@@ -1,4 +1,4 @@
-package com.github.signed.itdepends.itdepends
+package com.github.signed.itdepends
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

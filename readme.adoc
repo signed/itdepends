@@ -16,3 +16,18 @@ https://github.com/mixitconf/mixit
 - http://www.baeldung.com/kotlin-null-safety[Kotlin null safety]
 - https://kotlinlang.org/docs/reference/inline-functions.html#reified-type-parameters[Kotlin refined type parameters]
 - https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0#functional-bean-declaration-dsl[Kotlin Support in Spring]
+
+
+= Visualization
+https://iros.github.io/d3-v4-whats-new/
+
+
+http://bl.ocks.org/NPashaP/7683252
+http://bl.ocks.org/rkirsling/5001347
+https://marmelab.com/ArchitectureTree/
+http://animateddata.co.uk/lab/d3-tree/#
+http://taxontree.bpodgursky.com/
+https://risacher.org/galaxy-chart/
+
+== Basic
+https://bl.ocks.org/mbostock/5872848

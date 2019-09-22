@@ -10,6 +10,9 @@
 ## Greg Young - Event Sourcing, CQRS, DDD
 Read about him in another blog posts, there are recordings of talks he gave.
 
+- 📕 [Versioning in an Event Sourced System](https://leanpub.com/esversioning)
+
+
 ## [daniel whittaker](http://danielwhittaker.me/)
 Looked at some of his blog posts
 - 📖 [CQRS + Event Sourcing – A Step by Step Overview](http://danielwhittaker.me/2014/10/02/cqrs-step-step-guide-flow-typical-application/)
@@ -31,6 +34,10 @@ Looked at some of his blog posts
 - 📕[sourced](https://www.npmjs.com/package/sourced):  Tiny framework for building models with the event sourcing pattern.
 
 
+## [Vaughn Vernon](https://twitter.com/VaughnVernon)
+
+- 📕 [Effective Aggregate Design](https://dddcommunity.org/library/vernon_2011/)
+- 📕 [really simple cqrs](https://kalele.io/really-simple-cqrs/)
 
 # Talks
 ## 📖 [How To Combine Event Sourcing Architecture In Your Node.js Server | Tamar Twena-Stern](https://www.youtube.com/watch?v=eOqgg0xmG3w)
@@ -38,9 +45,16 @@ Looked at some of his blog posts
 - 📕 [eventstore](https://www.npmjs.com/package/eventstore): The project goal is to provide an eventstore implementation for node.js
 - 📕 [@nestjs/cqrs](https://www.npmjs.com/package/@nestjs/cqrs): A lightweight CQRS module for Nest framework
 
+## 🕵📹 [Event Sourcing - You are doing it wrong (DE/GER)](https://www.youtube.com/watch?v=2IoinhMv6Aw)
+- event streams
+- 📕📦 https://github.com/adrai/node-eventstore
+
 # web
 - 📕https://cqrs.nu/
 - 📖 [Teiva Harsanyi: 1 Year of Event Sourcing and CQRS](https://hackernoon.com/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
   - This is about the Air Traffic Management example
   - some links to other people at the end and in text
 
+# Books
+- 📕 [Exploring CQRS and Event Sourcing](https://www.amazon.com/Exploring-CQRS-Event-Sourcing-maintainability)
+- 📕 [The dark side of event sourcing: Managing data conversion](https://www.researchgate.net/publication/315637858_The_dark_side_of_event_sourcing_Managing_data_conversion)

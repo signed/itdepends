@@ -12,7 +12,8 @@ Read about him in another blog posts, there are recordings of talks he gave.
 
 ## [daniel whittaker](http://danielwhittaker.me/)
 Looked at some of his blog posts
-
+- 📖 [CQRS + Event Sourcing – A Step by Step Overview](http://danielwhittaker.me/2014/10/02/cqrs-step-step-guide-flow-typical-application/)
+- 📖 [6 code smells cqrs events avoid/](http://danielwhittaker.me/2014/10/18/6-code-smells-cqrs-events-avoid/)
 
 # Talks
 ## 📖 [How To Combine Event Sourcing Architecture In Your Node.js Server | Tamar Twena-Stern](https://www.youtube.com/watch?v=eOqgg0xmG3w)
@@ -29,4 +30,7 @@ Looked at some of his blog posts
 
 # web
 - 📕https://cqrs.nu/
+- 📖 [Teiva Harsanyi: 1 Year of Event Sourcing and CQRS](https://hackernoon.com/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
+  - This is about the Air Traffic Management example
+  - some links to other people at the end and in text
 

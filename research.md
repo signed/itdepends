@@ -48,7 +48,9 @@ Looked at some of his blog posts
 
 ## 🕵📹 [Event Sourcing - You are doing it wrong (DE/GER)](https://www.youtube.com/watch?v=2IoinhMv6Aw)
 - event streams
+- Gregory Young: Pope of event sourcing
 - 🔭📦 https://github.com/adrai/node-eventstore
+- 🔭📦 [eventstore](https://eventstore.org/)
 
 # web
 - 🔭📕 https://cqrs.nu/

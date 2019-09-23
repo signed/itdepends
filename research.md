@@ -9,9 +9,21 @@
 
 # People
 ## Greg Young - Event Sourcing, CQRS, DDD
+- first talked about this at Q-Con 2006 in San Francisco
 Read about him in another blog posts, there are recordings of talks he gave.
+- 🔭📕 [Versioning in an Event Sourced System](https://leanpub.com/esversioning)
+- 🔭📹 [Greg Young — A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s)
+- 🔭 6 hours https://www.youtube.com/watch?v=whCk1Q87_ZI
 
-- 🔭 [Versioning in an Event Sourced System](https://leanpub.com/esversioning)
+### 📹📖 [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
+- good introduction into the topic
+- Event Sourcing and CQRS
+- you can use CQRS without event sourcing
+- with event sourcing you have to use CQRS
+- events are immutable and must not be deleted
+- favour full reversals and do the correct thing instead of partial correction (easier to reason about during an audit)
+- you can never change a projection you can only create a new one
+- snapshots are not part of the event stream
 
 
 ## [daniel whittaker](http://danielwhittaker.me/)

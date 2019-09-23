@@ -46,11 +46,14 @@ Looked at some of his blog posts
   - middleware for different aspects (correlation ids, retry, ...)
 - 🔭[sourced](https://www.npmjs.com/package/sourced):  Tiny framework for building models with the event sourcing pattern.
 
-
-## [Vaughn Vernon](https://twitter.com/VaughnVernon)
-
+## [Vaughn Vernon](https://vaughnvernon.co)
 - 🔭 [Effective Aggregate Design](https://dddcommunity.org/library/vernon_2011/)
+  - this is the basis of the implementing domain driven design chapter 10 about aggregates.
 - 🔭 [really simple cqrs](https://kalele.io/really-simple-cqrs/)
+- 🔭📹 [Vaughn Vernon - Rethinking Legacy and Monolithic Systems](https://www.youtube.com/watch?v=OSARwCnSRCI)
+
+### 👓📕 Implementing Domain-Driven Design 
+- started reading
 
 # Talks
 ## ✅ [How To Combine Event Sourcing Architecture In Your Node.js Server | Tamar Twena-Stern](https://www.youtube.com/watch?v=eOqgg0xmG3w)
